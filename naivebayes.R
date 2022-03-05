@@ -1,3 +1,5 @@
+#this document is based on Cran document for naivebayes library
+
 library(naivebayes)
 ###Simulate the data
 cols <- 10
